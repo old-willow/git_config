@@ -3,3 +3,8 @@
 	email = robert.kolozsi@gmail.com
 [push]
 	default = matching
+[core]
+	editor = vim
+	excludesfile = /home/robi/.gitignore_global
+[color]
+	ui = always
